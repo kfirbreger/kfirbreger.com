@@ -1,7 +1,8 @@
-Title: Ardennen Trophy
-Date: 2012-05-31 20:30:00
-Tags: marathon, race, mtb
-
++++
+title = "Ardennen Trophy"
+date = "2012-05-31 20:30:00"
+tags = ["marathon", "race", "mtb"]
++++
 This race was the first I was doing for a second time. Not a big surprise considering this is my second racing season. In mountain biking it is really hard to compare your performance between races. Climbing meters and distance do not tell the whole story. Even climbing angle does not. Unlike road biking. In mountain biking is the terrain a very decisive element in determining your pace. Looking at the same race is better, since you know the general course is the same. Yet, even that is not an easy comparison as the terrain can change between years. How muddy the track is for instance. Still. Its as close as you can get, which is why I was excited to finally have a chance to see my progression.
 
 The Ardennen Trophy is the second race in the [EBMC](htp://emb.info) series. Having raced a week and a half ago at Les Cimes, I was hoping to be recovered enough to maintain my two goals for races this year(15km/h average speed and top half finish). Everybody was occupied with other races so this time I was going at it alone. That is both negative (boring) and positive (less social pressure to perform). As I said I knew where I was going. I was surprised at how much more relaxed I was at the beginning of the day, all the way up to the start. Nothing was new. I new where to pick up my number, where the start was, where to park. I wonder if this is part of the benefit of having racing experience. Starting relaxed is a feeling I like.

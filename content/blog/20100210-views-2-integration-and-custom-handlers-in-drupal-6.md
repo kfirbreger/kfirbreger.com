@@ -1,7 +1,8 @@
-Title: Views 2 integration and custom handlers in Drupal 6
-Date: 2010-02-10 19:32:46
-Tags: drupal, programming, views2, web, work
-
++++
+title = "Views 2 integration and custom handlers in Drupal 6"
+date = "2010-02-10"
+tags = ["drupal", "programming", "views2", "web", "work"]
++++
 As part of a large scale project at work, I needed to create an integration
 between views and a module I was writing. For it to function properly, a
 custom handler was also needed. Unfortunately there was very little
