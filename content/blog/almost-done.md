@@ -1,7 +1,8 @@
-Title:Almost done
-Date: 2007-08-06 21:55:40
-Tags: Me
-
++++
+title = "Almost done"
+date = "2007-08-06"
+tags = ["Me"]
++++
 Saturday I mailed my pre-definitive version of my thesis and I am very happy
 about tit. Not so much my work, which i think is ok, but that I'm almost done.
 It has been so long coming and I'm finally seeing the end. After being a for
