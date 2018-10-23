@@ -1,7 +1,8 @@
-Title:Fair Politics
-Date: 2008-09-11 13:05:15
-Tags: american election
-
++++
+title = "Fair Politics"
+date = "2008-09-11 13:05:15"
+tags = ["american election"]
++++
 Politics is not fair. I am aware of that. That said, watching the republican's
 party campaign is enraging. Trying to win an election is good. Spreading [lies
 ](http://www.samefacts.com/archives/campaign_2008_/2008/09/palin_v_reality.php

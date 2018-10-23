@@ -1,7 +1,8 @@
-Title:The Roof of Brabant
-Date: 2011-02-20 16:58:42
-Tags: mtb, tour, xc
-
++++
+title = "The Roof of Brabant"
+date = "2011-02-20 16:58:42"
+tags = ["mtb", "tour", "xc"]
++++
 ![TC Nuenen](/images/TCNuenen.gif)
 
 The 13 of February I rode for the first time in months a proper tour. With the

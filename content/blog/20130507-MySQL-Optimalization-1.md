@@ -1,7 +1,8 @@
-Title: MySQL Optimisation, part 1
-Date: 2013-05-12
-Tags: mysql, server
-
++++
+title = "MySQL Optimisation, part 1"
+date = "2013-05-12"
+tags = ["mysql", "server"]
++++
 Optimising a database server is a delicate and complex job. It is very hard to extrapolate one optimisation on another. Repeating the same steps would not necessarily give you the same benefits. That said, the tools use to measure where the problems are do have a lot of overlap between problems.
 
 ## Setting up for optimisation

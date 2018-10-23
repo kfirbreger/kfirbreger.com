@@ -1,7 +1,8 @@
-Title:Summer vacation
-Date: 2008-08-27 15:35:37
-Tags: diving, fun, switzerland, thoughts, travel, vacation
-
++++
+title = "Summer vacation"
+date = "2008-08-27 15:35:37"
+tags = ["diving", "fun", "switzerland", "thoughts", "travel", "vacation"]
++++
 Summer came, and summer is almost gone now. I have been quite busy and so
 neglected my blogging commitment. Here to make it right is a post about this
 wonderful summer. During this summer I had two major vacations. Two weeks in

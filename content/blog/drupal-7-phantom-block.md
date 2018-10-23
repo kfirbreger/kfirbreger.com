@@ -1,7 +1,8 @@
-Title:Drupal 7 phantom block
-Date: 2011-12-02 11:04:44
-Tags: blocks, bug, context, drupal, programming
-
++++
+title = "Drupal 7 phantom block"
+date = "2011-12-02 11:04:44"
+tags = ["blocks", "bug", "context", "drupal", "programming"]
++++
 Today I can across an interesting change in the way Drupal 7 handles blocks
 created via modules. In a module I made, I defined a block using the
 _hook_block_info_ and _hook_block_view_. This block was added to the site's

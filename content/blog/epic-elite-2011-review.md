@@ -1,7 +1,8 @@
-Title:Epic Elite 2011 Review
-Date: 2011-05-18 21:50:06
-Tags: epic, impressions, mtb, review, specialized
-
++++
+title = "Epic Elite 2011 Review"
+date = "2011-05-18 21:50:06"
+tags = ["epic", "impressions", "mtb", "review", "specialized"]
++++
 In my hunt for a new bike, the Epic from specialized is high on the list. I
 was lucky enough to secure a test bike from [bikeshop](bikeshop.nl) in
 Amersfoort. My current bike is a 2007 Specialized Rockhopper, which is a hard

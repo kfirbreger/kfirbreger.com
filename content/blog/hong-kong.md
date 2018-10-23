@@ -1,7 +1,8 @@
-Title:Hong Kong!
-Date: 2007-11-11 05:46:43
-Tags: travel
-
++++
+title = "Hong Kong!"
+date = "2007-11-11 05:46:43"
+tags = ["travel"]
++++
 Hong Kong, finally, after years of thinking of you, I'm here, to walk your
 fantastic streets, amongst your people, to see you with my own eyes. I felt
 like a small boy, off to his first amusement park. It is weird for me to feel

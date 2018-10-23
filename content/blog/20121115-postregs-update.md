@@ -1,7 +1,8 @@
-Title: Update Postgres from 9.1 to 9.2 with homebrew
-Date: 2012-11-12
-Tags: homebrew, postgresql, os x
-
++++
+title = "Update Postgres from 9.1 to 9.2 with homebrew"
+date = "2012-11-12"
+tags = ["homebrew", "postgresql", "os x"]
++++
 [Homebrew](http://mxcl.github.com/homebrew/) has really changed the way I used my terminal[^brew]. I tried both fink, and (mac)ports. Both of them felt short of a good package manager system. Then along came homebrew and won me over. It just work. For instance, with the command <code>brew upgrade</code> all your packages get upgraded. Easy.
 
 My postgresql installation is done via homebrew, as it is easiest way to install postgresql on a mac[^1]. And so yesterday when I ran my usual upgrade, postgres was updated from 9.1 to 9.2. Didn't really seem like  a bog deal, but when I tried to start the server, it complained that the database was created for 9.1 and is not compatible with 9.2.

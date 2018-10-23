@@ -1,7 +1,8 @@
-Title:Magnetic Movie
-Date: 2008-08-08 10:32:31
-Tags: science, video
-
++++
+title = "Magnetic Movie"
+date = "2008-08-08 10:32:31"
+tags = ["science", "video"]
++++
 The secret lives of invisible magnetic fields are revealed as chaotic ever-
 changing geometries . All action takes place around NASA's Space Sciences
 Laboratories, UC Berkeley, to recordings of space scientists describing their

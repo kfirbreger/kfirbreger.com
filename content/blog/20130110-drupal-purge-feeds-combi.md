@@ -1,7 +1,8 @@
-Title: Drupal's purge and feeds combi problem
-Date: 2013-01-10
-Tags: drupal,apache,purge,feeds,server
-
++++
+title = "Drupal's purge and feeds combi problem"
+date = "2013-01-10"
+tags = ["drupal","apache", "purge", "feeds" ,"server"]
++++
 [Purge](http://drupal.org/project/purge) is a drupal module that clears URLs from reverse proxy caches like Varnish, Squid or Nginx by issuing an http PURGE request to them.
 
 [Feeds](http://drupal.org/project/feeds) is a drupal module that import or aggregate data as nodes, users, taxonomy terms or simple database records. It is a very flexible tool for working with external data sources.

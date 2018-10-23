@@ -1,7 +1,8 @@
-Title: Arik Einsten
-Date: 2013-11-27
-Tags: thoughts
-
++++
+title = "Arik Einsten"
+date = "2013-11-27"
+tags = ["thoughts"]
++++
 ![Arik Einstein](/images/201311-arik-einstein-BW.jpg)
 Yesterday, at the age of 74, [Arik Einstein](http://en.wikipedia.org/wiki/Arik_Einstein) passed away. Today he was buried in Tel Aviv, his and mine beloved city. Mr Einstein has been so influential to israeli culture that it is hard to explain it to non Israelis. There is simply no Arik Einstein here in the Netherlands. He was a musician, a singer, an actor, a comedian. He was enormously influential because he was simply incredibly good at what he did. It sometimes seemed like success was just an unintended side effect. He never chanced it, he was just to good to not achieve it.
 

@@ -1,7 +1,8 @@
-Title:New gear
-Date: 2008-03-17 13:00:39
-Tags: gear, sport
-
++++
+title = "New gear"
+date = "2008-03-17 13:00:39"
+tags = ["gear", "sport"]
++++
 This weekend I spent a shit-load of money. Since I am going snowboarding I
 figured it was time for me to get my own snowboard. Friday I visited 3 shops
 but didn't find quite what I wanted. Not to mention I got very little

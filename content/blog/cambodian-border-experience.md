@@ -1,7 +1,8 @@
-Title:Cambodian border experience
-Date: 2007-12-07 11:59:37
-Tags: travel
-
++++
+title = "Cambodian border experience"
+date = "2007-12-07 11:59:37"
+tags = ["travel"]
++++
 Yesterday we crossed the Cambodian border, after falling victim to several
 scams in one ticket. We bought a fairly expansive ticket from Chiang Mai to
 Siam Reap(the city next to the Angkor Wat). We were promised to buses in

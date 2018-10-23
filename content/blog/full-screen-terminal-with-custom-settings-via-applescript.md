@@ -1,7 +1,8 @@
-Title:Full screen terminal with custom settings via applescript
-Date: 2011-08-05 11:44:32
-Tags: applescript, guide, os x, terminal
-
++++
+title = "Full screen terminal with custom settings via applescript"
+date = "2011-08-05 11:44:32"
+tags = ["applescript", "guide", "os x", "terminal"]
++++
 The new full screen option in Lion is quite nice. At the moment my favorite
 application to run full screen is terminal. It has a great old school vibe to
 it, not to mention that it allows you to be fully focused on that one window.

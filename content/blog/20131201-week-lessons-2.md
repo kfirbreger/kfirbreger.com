@@ -1,7 +1,8 @@
-Title: Week Lessons 2
-Date: 2013-12-01
-Tags: week-lessons, shell
-
++++
+title = "Week Lessons 2"
+date = "2013-12-01"
+tags = ["week-lessons", "shell"]
++++
 ## Use curl to post data
 
 While developing an api, I needed to do some posts to a certain url. The fastest way I could think of was to use the command line <code>curl</code> command. However, by default curl does a <code>GET</code> request, and of course, sends no data. However a short googling trip took me to [this superuser answer](http://superuser.com/a/255624), which demonstrates how to do it. I was posting json to my api endpoint in no time. Example:

@@ -1,7 +1,8 @@
-Title: Sallands Mooiste
-Date: 2012-06-18
-Tags: mtb, tour
-
++++
+title = "Sallands Mooiste"
+date = "2012-06-18"
+tags = ["mtb", "tour"]
++++
 Its good to have friends to ride with. In increases the fun of the ride exponentially, its fun to talk about the ride afterwards, and also, it helps you in finding new rides. This was the case with Sallands Mooiste. For the non dutch, Sallands is a nature reserve area on the east of the Netherlands. It's quite beautiful, and, important for mountain bikers, not flat. Marcelo picked up that there was a mountain bike tour being organized there. Normally most of the area is off limit to mountain bikers so this was a great chance to ride in a lot of places you normally wouldn't be allowed to (which is to me always part of the allure of races and tours). With the added bonus of being able to sleep at a relative's right next to the start this was looking very promising.
 
 [![Sallands Mooiste](/images/sallandsmooiste.gif)](http://sallandsmooiste.nl)

@@ -1,7 +1,8 @@
-Title:Setting up Solr for Drupal under tomcat
-Date: 2010-07-13 08:37:56
-Tags: drupal, programming, setup, solr, tomcat, web, work
-
++++
+title = "Setting up Solr for Drupal under tomcat"
+date = "2010-07-13 08:37:56"
+tags = ["drupal", "programming", "setup", "solr", "tomcat", "web", "work"]
++++
 Disclaimer: This method will probably not work for all servers running tomcat,
 it is more a personal guide then a general one. Solr is a "popular, blazing
 fast open source enterprise search platform from the Apache Lucene project".

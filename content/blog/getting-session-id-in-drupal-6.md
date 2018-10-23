@@ -1,7 +1,8 @@
-Title:Getting session ID in Drupal 6
-Date: 2010-02-25 22:49:22
-Tags: drupal, guide, php, programming, web
-
++++
+title = "Getting session ID in Drupal 6"
+date = "2010-02-25 22:49:22"
+tags = ["drupal", "guide", "php", "programming", "web"]
++++
 Drupal saves its sessions in the sessions table. One can always query they
 table to get the session ID. There is however a faster way. If the user is
 logged it, the session id can be found with the following code:

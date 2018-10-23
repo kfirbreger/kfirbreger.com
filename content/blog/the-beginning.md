@@ -1,7 +1,8 @@
-Title:The beginning
-Date: 2010-12-29 21:16:32
-Tags: impressions, thoughts
-
++++
+title = "The beginning"
+date = "2010-12-29 21:16:32"
+tags = ["impressions", "thoughts"]
++++
 It all started with somebody else's dream. A friend of mine has always dreamed
 about crossing the alps on a mountain bike. This guy was definitely not new to
 mountain bike adventures. He has already cycled, over a period of three months

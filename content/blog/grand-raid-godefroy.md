@@ -1,7 +1,8 @@
-Title:Grand Raid Godefroy
-Date: 2011-10-09 16:17:15
-Tags: marathon, mtb, race
-
++++
+title = "Grand Raid Godefroy"
+date = "2011-10-09 16:17:15"
+tags = ["marathon", "mtb", "race"]
++++
 Starting this season I had two target. Finish the Eiger Challenge and finish a
 marathon at the top 50%. Last month I finished the Eiger Challenge. As I
 wrote, it was a close call, but I did it. So that left the second target,

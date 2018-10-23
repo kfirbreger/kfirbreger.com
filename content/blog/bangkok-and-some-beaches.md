@@ -1,7 +1,8 @@
-Title:Bangkok and Some Beaches
-Date: 2008-01-05 14:11:14
-Tags: Me, travel
-
++++
+title = "Bangkok and Some Beaches"
+date = "2008-01-05 14:11:14"
+tags = ["Me", "travel"]
++++
 Bangkok, Thailand, back where people are nice, and the food is good. Or so we
 had thought as we woke up. We headed towards the Grand Palace and the Temple
 of the Emerald Buddha. Being the responsible travellers that we are, we

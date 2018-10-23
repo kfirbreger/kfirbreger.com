@@ -1,7 +1,8 @@
-Title:wxPython
-Date: 2007-07-14 21:09:50
-Tags: programming
-
++++
+title = "wxPython"
+date = "2007-07-14 21:09:50"
+tags = ["programming"]
++++
 I am now busy making the GUI for my camera calibration tool. I have chosen to
 use wx for the GUI. So far it has been nice to use. the documentation is quite
 good and the development is going nicely. It does have some weird things. I

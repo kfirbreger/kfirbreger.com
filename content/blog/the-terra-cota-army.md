@@ -1,7 +1,8 @@
-Title:The Terra cota army
-Date: 2007-11-06 03:41:48
-Tags: travel
-
++++
+title = "The Terra cota army"
+date = "2007-11-06 03:41:48"
+tags = ["travel"]
++++
 The reason we actually came to Xi'an was to view the terra cota army.
 Yesterday we finally did it. The sight of it has left us amazed. The terra
 cota army was made for the burial of emperor Qin. Qin was the first to rule

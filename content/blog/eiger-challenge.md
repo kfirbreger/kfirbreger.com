@@ -1,7 +1,8 @@
-Title:Eiger Challenge
-Date: 2011-08-25 11:20:40
-Tags: marathon, mtb, race, sport
-
++++
+title = "Eiger Challenge"
+date = "2011-08-25 11:20:40"
+tags = ["marathon", "mtb", "race", "sport"]
++++
 This was it, the big one. What I have been looking for all season. Even though it is not the last season of the race, and is not included in any cup or championship I am participating in, it was what I had set as my main target. This is the real deal. Mountain biking in actual mountains. And there are few places in the world with as famous, or beautiful, mountains as Berner Oberland.
 
 ![Eiger Trail](/images/eigertrail.jpg)

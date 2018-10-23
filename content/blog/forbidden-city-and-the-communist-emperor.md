@@ -1,7 +1,8 @@
-Title:Forbidden city and the communist emperor
-Date: 2007-11-01 09:52:05
-Tags: travel
-
++++
+title = "Forbidden city and the communist emperor"
+date = "2007-11-01 09:52:05"
+tags = ["travel"]
++++
 A few days ago we visited the forbidden city. The place sure justifies the
 city part. To call it a palace will be an insult to the shear size of the
 place. It is probably bigger then most average size villages. For you dutch

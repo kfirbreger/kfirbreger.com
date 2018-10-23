@@ -1,7 +1,8 @@
-Title:Snowboarding weekend in Austria
-Date: 2008-03-27 11:16:04
-Tags: sport, travel
-
++++
+title = "Snowboarding weekend in Austria"
+date = "2008-03-27 11:16:04"
+tags = ["sport", "travel"]
++++
 Last weekend, the weekend of passover I went snowboarding Austria with some
 friends. I was afraid I wont manage to go snowboarding this year, making it
 the third year in a row. Luckily this weekend came along. As I posted before I

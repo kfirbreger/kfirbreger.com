@@ -1,7 +1,8 @@
-Title:Obertauern
-Date: 2011-03-12 16:27:42
-Tags: austria, snow, snowboard
-
++++
+title = "Obertauern"
+date = "2011-03-12 16:27:42"
+tags = ["austria", "snow", "snowboard"]
++++
 Obertauern, the powder bowl of Austria! Boy oh boy was I looking forward to
 our week there. For two years now I was planning on going there. Always had to
 cancel because it was just to expensive. Not this year though. This year we

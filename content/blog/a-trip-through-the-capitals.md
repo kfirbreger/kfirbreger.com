@@ -1,7 +1,8 @@
-Title:A trip through the capitals
-Date: 2007-11-28 09:59:00
-Tags: Me, travel
-
++++
+title = "A trip through the capitals"
+date = "2007-11-28 09:59:00"
+tags = ["Me", "travel"]
++++
 Diving has not been to me all that I had expected it to be. I was actually
 waiting for my mind to be blown away, all my old hobbies forgotten and a new
 obsession to be introduced. Instead what I found was a charming, relaxing

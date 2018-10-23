@@ -1,7 +1,8 @@
-Title:Some bash script tips
-Date: 2011-12-09 12:13:59
-Tags: bash, programming, script, shell, tips, unix
-
++++
+title = "Some bash script tips"
+date = "2011-12-09 12:13:59"
+tags = ["bash", "programming", "script", "shell", "tips", "unix"]
++++
 Every morning do a refresh of all my repositories so that I know I don't fall
 behind on the code if I need to solve some problem or continue developing.
 Doing this manually is not practical, and so I created a bash script to

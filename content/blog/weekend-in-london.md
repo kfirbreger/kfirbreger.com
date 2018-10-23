@@ -1,7 +1,8 @@
-Title:Weekend in London
-Date: 2009-01-27 16:50:37
-Tags: London, travel
-
++++
+title = "Weekend in London"
+date = "2009-01-27 16:50:37"
+tags = ["London", "travel"]
++++
 London has always been one of my favorite cities. Just being there makes me
 feel slightly happier. The street names, lots of them with a meaning of their
 own like Abbey road, Oxford street, Regent street, Bond street. The known

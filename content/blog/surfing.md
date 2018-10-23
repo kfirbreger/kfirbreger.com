@@ -1,7 +1,8 @@
-Title:Surfing
-Date: 2007-07-22 10:14:06
-Tags: sport
-
++++
+title = "Surfing"
+date = "2007-07-22 10:14:06"
+tags = ["sport"]
++++
 I went surfing yesterday for the first time in a very long time. I never
 really was a surfer but I figured hey, its a board, and i snowboard and i have
 skateboarded, cant be that hard. Last time i tried was in Tenerife and there

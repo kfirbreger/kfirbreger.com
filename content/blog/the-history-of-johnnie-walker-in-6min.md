@@ -1,7 +1,8 @@
-Title:The history of Johnnie Walker in 6min
-Date: 2009-08-29 09:28:59
-Tags: fun, thoughts
-
++++
+title = "The history of Johnnie Walker in 6min"
+date = "2009-08-29 09:28:59"
+tags = ["fun", "thoughts"]
++++
 The first whiskey I ever drank was a Johnnie Walker Red Label. It was
 horrible. Burned my mouth completely. I was, as can be expected young and knew
 nothing about whiskey, aside form the name. And that it was apparently "cool"

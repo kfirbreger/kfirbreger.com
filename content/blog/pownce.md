@@ -1,7 +1,8 @@
-Title:Pownce
-Date: 2007-07-18 16:01:57
-Tags: web
-
++++
+title = "Pownce"
+date = "2007-07-18 16:01:57"
+tags =  ["web"]
++++
 Yesterday i got an invite to pownce. I have heard a lot about it both good and
 bad, so i was really curious about it. I got in, full of enthusiasm and i came
 across the first barrier in social network sites, you need friends in that

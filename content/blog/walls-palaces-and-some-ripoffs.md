@@ -1,7 +1,8 @@
-Title:Walls, Palaces and some ripoffs
-Date: 2007-10-27 13:29:37
-Tags: travel
-
++++
+title = "Walls, Palaces and some ripoffs"
+date = "2007-10-27 13:29:37"
+tags = ["travel"]
++++
 These last few days have been very impressive. Only after landing in China did
 it sunk in that I am, actually going there. For the first time in my life I
 was in a place where I could not read anything. Well unless they had some

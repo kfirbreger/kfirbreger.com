@@ -1,7 +1,8 @@
-Title: Week Lessons 3
-Date: 2013-12-08
-Tags: mercurial, django, content, javascript
-
++++
+title = "Week Lessons 3"
+date = "2013-12-08"
+tags = ["mercurial", "django", "content", "javascript"]
++++
 ## Mercurial Bookmarks
 
 If one bookmaker is a direct decedent of another bookmaker, it is not possible to use <code>hg merge</code> between the two, since mercurial does not have a fast-forward option like git. The solution is to simply, update. Do note that it seems impossible to update to a bookmark that is half way through the tree. There is great [stack overflow question and answer](http://stackoverflow.com/questions/14702334/cant-merge-feature-bookmark-into-master-bookmark-in-mercurial) about this.

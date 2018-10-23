@@ -1,7 +1,8 @@
-Title:NSXMLParser and error code 4
-Date: 2011-05-25 11:31:22
-Tags: cocoa, ios, objective c, programming, work, xml
-
++++
+title = "NSXMLParser and error code 4"
+date = "2011-05-25 11:31:22"
+tags = ["cocoa", "ios", "objective c", "programming", "work", "xml"]
++++
 Today I had one of the strangest bugs I have seen to date. I am working on an
 iOS app that does  a lot of communication with a web app api. the
 communication is done via XML. Since the web app requires autherntication, I

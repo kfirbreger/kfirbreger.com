@@ -1,7 +1,8 @@
-Title:TikTok / LunaTik Unpacking
-Date: 2011-02-14 22:08:50
-Tags: gear, ipod, style, watch
-
++++
+title = "TikTok / LunaTik Unpacking"
+date = "2011-02-14 22:08:50"
+tags = ["gear", "ipod", "style", "watch"]
++++
 Today received my TikTok / LunaTik via the mail. When I donated to it at kickstarter, the project was not yet fully financed. It eventually turned to be the most successful project kickstarter has managed.
 
 ![The box](/images/img_0567.jpg)

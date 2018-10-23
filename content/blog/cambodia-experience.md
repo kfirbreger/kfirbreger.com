@@ -1,7 +1,8 @@
-Title:Cambodia Experience
-Date: 2007-12-21 14:15:48
-Tags: travel
-
++++
+title = "Cambodia Experience"
+date = "2007-12-21 14:15:48"
+tags = ["travel"]
++++
 Our last day in Siem Reap we went to the floating village. The place is an
 interesting place and some proof of human adaptation. The lake, in which the
 village floats, has a huge difference in water level between the seasons. To

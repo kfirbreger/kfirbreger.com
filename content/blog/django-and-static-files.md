@@ -1,7 +1,8 @@
-Title:Django and static files
-Date: 2008-09-26 20:18:18
-Tags: coding, django, programming, python, web
-
++++
+title = "Django and static files"
+date = "2008-09-26 20:18:18"
+tags = ["coding", "django", "programming", "python", "web"]
++++
 After a long break I have resumed my side project in django. Last night I came
 upon a problem. When testing a page outside django, the page was rendered
 correctly. When it was rendered through django the javascript files were not

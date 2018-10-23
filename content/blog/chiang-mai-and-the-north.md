@@ -1,7 +1,8 @@
-Title:Chiang Mai and the north
-Date: 2007-12-07 11:17:53
-Tags: sport, travel
-
++++
+title = "Chiang Mai and the north"
+date = "2007-12-07 11:17:53"
+tags = ["sport", "travel"]
++++
 The north of Thailand, so much to do so little time. Like I wrote earlier we
 had to narrow it down. We knew we had about a week so we devised a plan to
 fill the days as best we could. The first day was dedicated into what, in my

@@ -1,7 +1,8 @@
-Title: A Long day
-Date: 2007-08-18 00:39:09
-Tags: programming
-
++++
+title = "A Long day"
+date = "2007-08-18 00:39:09"
+tags = ["programming"]
++++
 This has been one long, and interesting day. I finally got the code part of my
 project done. Though I still need to finish testing it, it looks like its all
 good. I had spent all yesterday developing the equations in Maple. I wont bore

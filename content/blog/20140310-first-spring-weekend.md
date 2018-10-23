@@ -1,7 +1,8 @@
-Title: That First Spring Weekend
-Date: 2014-03-10
-Tags: sport
-
++++
+title = "That First Spring Weekend"
+date = "2014-03-10"
+tags = ["sport"]
++++
 That first weekend , when its sunny and just barely warm enough for shorts is very special here in the Netherlands. Everybody will go out dressed way to optimistically, the terraces will be flooded with people and the atmosphere is very jolly. Last weekend was suck a weekend. As a mountain biker, its also a great opportunity to do some riding.
 
 This year we were lucky in that it has been dry for a few days leading to this weekend. The trails were proper dry by the time weekend was upon us.

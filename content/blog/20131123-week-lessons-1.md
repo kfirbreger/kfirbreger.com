@@ -1,7 +1,8 @@
-Title: Week Lesson 1
-Date: 2013-11-23
-Tags: week-lessons, css, javascript, web, mysql
-
++++
+title = "Week Lesson 1"
+date = "2013-11-23"
+tags = ["week-lessons", "css", "javascript", "web", "mysql"]
++++
 Every week there are lot of small things I pick up that I think will be useful to remember, so I decided to start a weekly post with just such things. This is the first entry in the series.
 
 ## Positioning the jQueryUI Dialog

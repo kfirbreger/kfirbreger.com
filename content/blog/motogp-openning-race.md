@@ -1,7 +1,8 @@
-Title:MotoGP openning race
-Date: 2008-03-10 11:31:13
-Tags: sport
-
++++
+title = "MotoGP openning race"
+date = "2008-03-10 11:31:13"
+tags = ["sport"]
++++
 This weekend haled the start of the MotoGP season of 2008. The senior class
 has seen some major changes. Jorge Lorenzo, Andrea Dovizioso and Randy De
 Puniet, the three big names from the 250 all moved to the gp class. Lorenzo as

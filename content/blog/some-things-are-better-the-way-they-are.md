@@ -1,7 +1,8 @@
-Title:Some things are better the way they are
-Date: 2007-10-29 11:46:48
-Tags: travel
-
++++
+title = "Some things are better the way they are"
+date = "2007-10-29 11:46:48"
+tags = ["travel"]
++++
 There is a hip Chinese restaurant jut under our hotel. It has swings for
 chairs, uses lots of green color,  and is full of what I perceive to be young
 hip Chinese people. On the menu they have tea frappuccino in different

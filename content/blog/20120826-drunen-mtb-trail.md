@@ -1,7 +1,8 @@
-Title: Drunen mtb trail
-Date: 2012-08-26 19:37:00
-Tags: mtb, trail, ride review
-
++++
+title = "Drunen mtb trail"
+date = "2012-08-26 19:37:00"
+tags = ["mtb", "trail", "ride review"]
++++
 With the NYC trip behind me it was time to focus back on mountain biking. Looking at Strava i was disappointed to see just how little cycling I have done since the RDHF. I just had to cycle again. some friends of mine dropped the name Drunen. I have never ridden that trail before so I decided to try it. Marijn decided to join me and so this morning we putted the bikes in the car and drove there.
 
 We knew the weather will not be to pleasant. Unfortunately, the weather turned out to be far worse then we expected. There we were at the start of the trail, siting in the car, while its raining hard outside. Took us five minutes of self persuasion to get out of the car and get on the bikes.

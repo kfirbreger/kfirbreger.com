@@ -1,7 +1,8 @@
-Title:IE, already
-Date: 2007-07-12 16:56:03
-Tags: web
-
++++
+title = "IE, "already"
+date = "2007-07-12 16:56:03"
+tags = ["web"]
++++
 I haven't even been working on my site for a full hour and already there are
 some problems with IE. I am developing on a Mac so i cant control how things
 look in ie. I asked a friend of mine to look at the site and it looked like

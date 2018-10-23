@@ -1,8 +1,8 @@
-Title: Mysql Collation Encoding
-Date: 2012-08-02
-Tags: mysql,character encoding,utf8
-
-
++++
+title = "Mysql Collation Encoding"
+date = "2012-08-02"
+tags = ["mysql", "character encoding","utf8"]
++++
 While importing a big database today I can across a duplicate primary key. The database came form the live site and I knew it did not actually had any primamry key conflict. Looking closely at the error message it was about a word with the letter **ß** in it. It was an encoding issue. Mysql was returning true on:
 
 	ß == s
