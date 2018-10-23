@@ -1,7 +1,7 @@
 +++
 title = "jQuery animation problem in ie7"
 date = "2010-05-28 13:24:30"
-tags = "ie problems, javascript, programming, web"
+tags = ["ie", "javascript", "programming", "web"]
 +++
 For one of our projects, I was creating a photo bar. When the mouse was over
 one of the photos it was ment to increase in size and decrease back to

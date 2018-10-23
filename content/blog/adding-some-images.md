@@ -1,7 +1,7 @@
 +++
 title = "Adding some images"
 date = "2007-07-12 22:06:33"
-tags = "web"
+tags = ["web"]
 +++
 I just finished installing and setting up Gallery. It went quite smooth. that
 1click install dreamhost has is quite nice. I even had time to set up two

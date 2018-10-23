@@ -1,5 +1,5 @@
 +++
-title: "Bunnies, now in text"
+title = "Bunnies, now in text"
 date = "2012-11-01"
 tags = ["python"]
 +++

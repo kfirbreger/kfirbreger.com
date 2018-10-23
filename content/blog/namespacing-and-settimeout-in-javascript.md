@@ -1,5 +1,5 @@
 +++
-title = ["Namespacing and setTimeOut in Javascript"
+title = "Namespacing and setTimeOut in Javascript"
 date = "2010-05-11 12:39:47"
 tags = ["javascript", "programming", "web"]
 +++
