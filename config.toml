@@ -1,4 +1,28 @@
 baseURL = "http://kfirbreger.com/"
 languageCode = "en-us"
 title = "Kfir Breger"
-theme = "ananke"
+theme = "coder"
+
+[params]
+    author = "Kfir Breger"
+    info = "Developer, Photographer, Mountain Fan"
+    description = "Kfir's home on the web"
+    keywords = "developer,blog,personal,sport"
+    lastChange = 2018
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/kfirbreger/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/blog/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

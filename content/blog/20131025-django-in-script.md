@@ -1,7 +1,8 @@
-Title: Including your django site in a script
-Tags: python, django
-Date: 2013-10-25
-
++++
+title = "Including your django site in a script"
+date = "2013-10-25"
+tags = ["python", "django"]
++++
 Out of the box django comes with a command line tool that is pretty useful. Just reading the [getting started](https://docs.djangoproject.com/en/dev/intro/) will introduce you to it. One of the options it has is top open an [interactive python shell](https://docs.djangoproject.com/en/dev/ref/django-admin/#shell) that will allow you to interact with your django app[^djmanage]. If a certain task is done regularly, there is also the possibility of writing your own management commands. Its actually quite easy to do and can be incredibly useful, as it can also be combined with [Fabric](http://fabfile.org) to automate a lot of work.
 
 That said there are those rare occasions when the need arises to run an independent python script that uses some part of the django code. since django is just python code in a few simple steps you can be hacking away at your custom script. What is needed is to import the settings and the right directories to the python path. Assuming your app is called my_app and that all the django apps are in a folder called apps the following code should do the trick:

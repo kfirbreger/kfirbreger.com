@@ -1,7 +1,8 @@
-Title:jQuery animation problem in ie7
-Date: 2010-05-28 13:24:30
-Tags: ie problems, javascript, programming, web
-
++++
+title = "jQuery animation problem in ie7"
+date = "2010-05-28 13:24:30"
+tags = ["ie", "javascript", "programming", "web"]
++++
 For one of our projects, I was creating a photo bar. When the mouse was over
 one of the photos it was ment to increase in size and decrease back to
 original size when the mouse left. Unfortunately the client for which this was

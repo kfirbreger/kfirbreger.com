@@ -1,7 +1,8 @@
-Title:Byline review
-Date: 2009-08-29 09:18:43
-Tags: byline, iphone, review, reviews, rss reader
-
++++
+title = "Byline review"
+date = "2009-08-29 09:18:43"
+tags = ["byline", "iPhone", "review", "rss reader"]
++++
 [![Byline icon](/images/bylineicon.png)](http://www.phantomfish.com/byline.html)For a while now I have been using Google Reader as my rss reader. Managing feeds was simple, though not ideal and it was accessible from just about any computer. Better yet, I did not need to find way to sync between all my different rss readers, which was starting to get tiresome. On the iPhone the situation was a bit different. Even though Google Reader on the iPhone is reasonable, it felt slugish and not very natural. Running in mobile safari, that was of course, to be expected. I decided it was time to look for a dedicated rss reader for the iPhone. I was looking for an application that offered syncing with Google Reader, and that was about it.  I decided to try Byline from Phantom Fish. I have been using Byline for a month now and am very happy with it. So much so I decided to write my first app review about it. Let me give you a closer look at it.
 
   * **The icon:** Clear and unique enough to not be confused with other apps. The icon is definitely beautiful, though in my opinion it could have been a bit more abstract.

@@ -1,7 +1,8 @@
-Title:Javascript reintroduction
-Date: 2008-04-25 21:10:05
-Tags: web
-
++++
+title = "Javascript reintroduction"
+date = "2008-04-25 21:10:05"
+tags = ["web"]
++++
 AJAX is somewhat of a tricky subject for me. I am a huge fan of good UI and of
 good user experience. There is no doubt in my mind that since the introduction
 of javascript, and later on AJAX the general experience in using the internet

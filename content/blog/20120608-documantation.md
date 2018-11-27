@@ -1,7 +1,8 @@
-Title: Going Static
-Date: 2012-06-08
-tags: pelican, python
-
++++
+title = "Going Static"
+date = "2012-06-08"
+tags = ["pelican", "python"]
++++
 All the cool ids are doing it!
 For a good reason. I decided a while a go to turn off comments in my blog(A whole other discussion). Once comments are out there is no real reason to use a database for the blog since the posts pages are pretty static. Also, I am trying to minimize the amount of php I use. Moving away from wordpress was high on that list. So I looked around for a static generator.
 

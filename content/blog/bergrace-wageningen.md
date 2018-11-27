@@ -1,7 +1,8 @@
-Title:Bergrace Wageningen
-Date: 2011-03-28 19:36:53
-Tags: bergrace, mtb, race, xc
-
++++
+title = "Bergrace Wageningen"
+date = "2011-03-28 19:36:53"
+tags = ["bergrace", "mtb", "race", "xc"]
++++
 [![Bergrace - Off the road](/images/logo-300x34.png)](http://bergraceofftheroad.nl)It's a leather to seven when the alarm clock goes off. I am however not in need of it's alarm. I am already wide awake. Today, Sunday the 27 of march 2011, is my first race. Ever. I spent Saturday evening with Bas preparing my bike for the race. We tuned the gears, oiled everything and after some thought decide on a different tire setup. Nic for the front and Ralph for the rear. It's all dry so this should be faster. I made sure I got to bed in time so I would get enough sleep. That didn't quite go as plan. I was wide awake by the time the alarm went off. I have no idea how long I have been lying in bed fully awake and trying to relax. The ring of my alarm clock was the sound of freedom. It was time to get started. My gear was already packed so I grabbed a healthy breakfast loaded the car and was on my way. Even though I did my best to stay calm it was hard not to feel excited. At times it was positive expectation, at time a lot of fear for all sorts of horrible failure. Arriving in Wageningen I took my time getting my number board (35) changing clothes and hanging the board on my bike. In my attempt to stay calm and take it easy, I took so much time that I no longer had time for a warmup lap. Here is thus my first lesson. Taking your time is fine, but keeping an eye on the clock is just as important. Because I was one of the first to register for the race I was in the group that stone at the front. I knew I was not going to play with the insane start sprint so my start position was good, but for me not ideal. I was considering what to do to get out of the way as fast as I can when we were told one minute to start.
 
 

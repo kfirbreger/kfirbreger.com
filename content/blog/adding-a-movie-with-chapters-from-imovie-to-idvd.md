@@ -1,7 +1,8 @@
-Title:Adding a movie with chapters from iMovie to iDVD
-Date: 2010-10-04 22:43:32
-Tags: guide, guide, idvd, ilife, imovie, mac, os x
-
++++
+title = "Adding a movie with chapters from iMovie to iDVD"
+date = "2010-10-04 22:43:32"
+tags = ["guide", "idvd", "ilife", "imovie", "mac", "os x"]
++++
 iLife 08 brought a big change to iMovie. iMovie 06 was a very capable video
 editing software with a good plugin library. iMovie 08 has taken a step back
 in the amount of pure editing feature. It seemed like apple was aiming to make

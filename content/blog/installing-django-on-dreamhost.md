@@ -1,7 +1,8 @@
-Title:Installing Django on Dreamhost
-Date: 2008-05-19 12:29:44
-Tags: django, dreamhost, programming, python, web
-
++++
+title = "Installing Django on Dreamhost"
+date = "2008-05-19 12:29:44"
+tags = ["django", "dreamhost", "programming", "python", "web"]
++++
 Dreamhost appears on the django site as one of the django friendly hosting
 services. Unfortunately, dreamhost does not officially support django. It does
 not have mod_python installed. Django is instead deployed using FastCGI.

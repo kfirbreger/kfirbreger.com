@@ -1,7 +1,8 @@
-Title:How I ended up disliking religion by being with religious people
-Date: 2009-01-15 22:17:19
-Tags: religon, thoughts
-
++++
+title = "How I ended up disliking religion by being with religious people"
+date = "2009-01-15 22:17:19"
+tags = ["religon", "thoughts"]
++++
 Let me start by saying I am not a religious person. I did not have a religious
 upbringing, even though I was at a religious kinder garden, and I do not
 believe in the existence of god. Or gods. These last six months I have been

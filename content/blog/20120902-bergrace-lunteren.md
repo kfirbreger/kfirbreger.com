@@ -1,7 +1,8 @@
-Title: Bergrace Lunteren
-Date: 2012-09-02
-Tags: mtb, race, xc
-
++++
+title = "Bergrace Lunteren"
+date = "2012-09-02"
+tags = ["mtb", "race", "xc"]
++++
 Last year I dis not enjoy the Bergrace series. I rode the first two, Wageningen and Arnhem, and disnt enjoy it. Generally speaking I do not enjoy riding laps. And when combined with low technical level its just plain boring.
 
 Still, after watching [Velozine's course video](http://www.velozine.nl/2012/08/10/video-parcoursverkenning-bergrace-lunteren/) and talking with Marijn, who raced that course before, I decided to race. Not so much race as ride the course. Missing a lot of training the last two months meant I was not very fit.

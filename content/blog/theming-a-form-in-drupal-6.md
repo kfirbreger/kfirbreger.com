@@ -1,7 +1,8 @@
-Title:Theming a form in Drupal 6
-Date: 2010-02-23 13:07:19
-Tags: drupal, form api, php, theming
-
++++
+title = "Theming a form in Drupal 6"
+date = "2010-02-23 13:07:19"
+tags = ["drupal", "form api", "php", "theming"]
++++
 Form theming in drupal 6 is quite flexible. One of the nicest tricks is the
 ability to theme the form in stages. Calling drupal_render on a part of the
 form will not only return the rendered version of it, but it will also mark

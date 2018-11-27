@@ -1,7 +1,8 @@
-Title:Chinese impressions, part 2
-Date: 2007-11-06 03:48:00
-Tags: travel
-
++++
+title = "Chinese impressions, part 2"
+date = "2007-11-06 03:48:00"
+tags = ["travel"]
++++
 Arriving in Xi'an, we were hoping the what we thought of the Chinese was
 really just the Chinese of Beijing, and that outside it we will find the
 people we were expecting. A nation that is spiritual, respectful of its elder

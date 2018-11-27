@@ -1,7 +1,8 @@
-Title: Drupal Core Comparison
-Date: 2012-08-29
-Tags: drupal, programming, unix
-
++++
+title = "Drupal Core Comparison"
+date = "2012-08-29"
+tags = ["drupal", "programming", "unix"]
++++
 Drupal strongly discourages core hacks. Unfortunately not everybody follows this guideline. It will happen on occasion(more often than I would like) that you get to work on a project that needs a core update, and has undocumented core hacks. This of course poses a problem.
 
 The solution to this bad situation is to find what the core hacks are, analyse them, to see if they are still needed[^1], then create a patch for them. Once the patch is made, update the core and reapply, if possible. I recommend creating a patch per file as it makes it easier to get over problems with patching.

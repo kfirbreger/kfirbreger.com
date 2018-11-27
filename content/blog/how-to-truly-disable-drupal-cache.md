@@ -1,7 +1,8 @@
-Title:How to truly disable drupal cache
-Date: 2009-05-29 12:26:05
-Tags: drupal, guide, guide, hacks, php, programming, web
-
++++
+title = "How to truly disable drupal cache"
+date = "2009-05-29 12:26:05"
+tags = ["drupal", "guide", "hacks", "php", "programming", "web"]
++++
 Drupal, like most CMSes uses cache intensively to speed things up. In a
 production site that is exactly what you what. However when developing, cache
 can cause you much pain.

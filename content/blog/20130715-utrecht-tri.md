@@ -1,7 +1,8 @@
-Title: Utrecht Triathlon
-Date: 2013-07-15
-Tags: sport, triathlon, race
-
++++
+title = "Utrecht Triathlon"
+date = "2013-07-15"
+tags = ["sport", "triathlon", "race"]
++++
 This was it. My first triathlon. Almost a year's worth of training was coming to conclusion. It was time t see what this was really all about. Having given up on actually getting a good time due to my horrible swimming, I was relaxed. I felt almost free. Tim has cancelled at the last moment and so I was going at it alone.
 
 There are a big advantage to racing in your own city. you know the terrain, you can easily practice the route and the registration station is close by. I cycled there early to pick up my racing plate and went back home to get everything ready. My bag was already packed so it was a question of doing a last check and heading for the start for warm up.

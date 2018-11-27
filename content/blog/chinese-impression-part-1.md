@@ -1,7 +1,8 @@
-Title:Chinese impression Part 1
-Date: 2007-11-01 09:58:47
-Tags: travel
-
++++
+title = "Chinese impression Part 1"
+date = "2007-11-01 09:58:47"
+tags = ["travel"]
++++
 So far we have only been to Beijing. My impression of the Chinese might be
 wrong then, but so far it is really a people of duality. They are nice people
 but about as polite as a pack of starving hyenas on the queue to the free

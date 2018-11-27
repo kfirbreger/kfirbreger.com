@@ -1,7 +1,8 @@
-Title:Opposite directions
-Date: 2009-08-28 08:54:47
-Tags: justice scalia, law, stupid, thoughts
-
++++
+title = "Opposite directions"
+date = "2009-08-28 08:54:47"
+tags = ["justice scalia", "law", "stupid", "thoughts"]
++++
 You probably heard about justice Scalia of the American supreme court saying
 executing an innocent man is not unlawful because he was found guilty in a
 legal trial. New findings which can acquit said innocent man, are, for justice

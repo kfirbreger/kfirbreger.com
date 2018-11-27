@@ -1,7 +1,8 @@
-Title:A quick update
-Date: 2008-01-20 08:51:28
-Tags: travel
-
++++
+title = "A quick update"
+date = "2008-01-20 08:51:28"
+tags = ["travel"]
++++
 It has been a while since I blogged, but as we are in Phuket at the moment and
 the sun calls I will just write a quick update. We spent 10 days in Malaysia,
 visiting Georgetown (Penang) and Kuala Lumpur. Malaysia proved to be a very

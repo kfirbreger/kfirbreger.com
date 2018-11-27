@@ -1,7 +1,8 @@
-Title:Two Belgians and a German
-Date: 2011-07-20 13:06:54
-Tags: marathon, mtb, race, review
-
++++
+title = "Two Belgians and a German"
+date = "2011-07-20 13:06:54"
+tags = ["marathon", "mtb", "race", "review"]
++++
 June has been a busy month for me. Three marathons in one month. I have yet to
 ride with such intensity and was excited and worried about it. This will
 really test my physical and mental skills.

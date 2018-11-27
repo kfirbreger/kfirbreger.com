@@ -1,7 +1,8 @@
-Title:Adding some images
-Date: 2007-07-12 22:06:33
-Tags: web
-
++++
+title = "Adding some images"
+date = "2007-07-12 22:06:33"
+tags = ["web"]
++++
 I just finished installing and setting up Gallery. It went quite smooth. that
 1click install dreamhost has is quite nice. I even had time to set up two
 small albums. the combination of WordPress, Gallery and ActivColab seems to be

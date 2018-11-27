@@ -1,7 +1,8 @@
-Title:The finer points of respondsToSelector
-Date: 2011-05-27 13:46:33
-Tags: cocoa, os x, programming, work
-
++++
+title = "The finer points of respondsToSelector"
+date = "2011-05-27 13:46:33"
+tags = ["cocoa", "os x", "programming", "work"]
++++
 Cocoa's object model is something I really like. Coming from Java, being able
 to declare a property and have the getters and setters auto generated is
 really wonderful. The key value way to interact with an object is also a very

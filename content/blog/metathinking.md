@@ -1,7 +1,8 @@
-Title:Metathinking
-Date: 2008-04-25 21:10:39
-Tags: ideas
-
++++
+title = "Metathinking"
+date = "2008-04-25 21:10:39"
+tags = ["ideas"]
++++
 When confronted with some thought provoking subjects my mind has an
 interesting side effect. Unconciounsly, I find myself thinking about the
 actual thinking. Am I thinking in the correct abstraction level? Are my

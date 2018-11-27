@@ -1,7 +1,8 @@
-Title: Le Grand Raid
-Date: 2013-08-28
-Tags: mtb,marathon,race
-
++++
+title = "Le Grand Raid"
+date = "2013-08-28"
+tags = ["mtb", "marathon", "race"]
++++
 Ever since I started to seriously ride mountain bikes, there was one race that I always dreamed about doing. This long, technical and adventurous alpine race was like nothing else. The race, called [The Grand Raid](http://www.grand-raid.ch), is from Verbier To Grimentz crossing 4 mountain ridges in its path. This year I got to race it.
 
 ![Grand Raid](http://www.grand-raid.ch/image-488-3-tracé_3D_Complet_HD.jpg)

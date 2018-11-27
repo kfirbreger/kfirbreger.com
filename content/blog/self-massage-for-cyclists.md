@@ -1,7 +1,8 @@
-Title:Self-Massage for Cyclists
-Date: 2011-08-08 09:11:20
-Tags: mountain bike, sport, tips, training
-
++++
+title = "Self-Massage for Cyclists"
+date = "2011-08-08 09:11:20"
+tags = ["mountain bike", "sport", "tips", "training"]
++++
 Over at Bicycling magazine there is a piece about [self
 massaging](http://www.bicycling.com/training-nutrition/injury-prevention/self-massage-cyclists) for both pre and post riding. A few years ago, when I was
 doing a lot of rock climbing, I got in the habit of doing self massaging

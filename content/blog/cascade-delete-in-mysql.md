@@ -1,7 +1,8 @@
-Title:Cascade delete in MySQL
-Date: 2008-04-25 20:03:00
-Tags: programming, work
-
++++
+title = "Cascade delete in MySQL"
+date = "2008-04-25 20:03:00"
+tags = ["programming", "work"]
++++
 Now that I am actually getting payed to program instead of paying to program,
 I find myself in greater need of practical information. Putting some of it on
 my blog will help me keep all the knowledge in one place. To start off, I'll

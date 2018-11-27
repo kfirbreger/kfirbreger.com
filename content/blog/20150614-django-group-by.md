@@ -1,7 +1,8 @@
-Title: Django ORM group by
-Date: 2015-06-14 13:44:00
-Tags: python, django
-
++++
+title = "Django ORM group by"
+date = "2015-06-14 13:44:00"
+tags = ["python", "django"]
++++
 Filtering in Django over foreign keys or many to many relations's values has, as a buy product, the possibility of creating duplicates of the object you are actually filtering from. A simple way to avoid this is to <code>group by</code> on the primary key of the model. Django, however, does not have group by in the ORM. There is however a way to make Django add it. By slightly abusing annotation it is possible to add just such a claus.
 
 <code>

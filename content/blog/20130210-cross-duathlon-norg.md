@@ -1,7 +1,8 @@
-Title: Cross Duathlon Norg
-Date: 2013-02-10
-Tags: sport, race, duathlon
-
++++
+title = "Cross Duathlon Norg"
+date = "2013-02-10"
+tags = ["sport", "race", "duathlon"]
++++
 The winter here is to cold for swimming and so I was going to try duathlons as an alternative to triathlons. Its definitely not the same but it is as close as I can get. Its a good way to learn transition which at least partially (bike to run) is identical to triathlon. A cross duathlon was even more up my alley as it involved mountain biking instead of road biking. And so I found myself heading to Norg, a 2 hours drive, for my first ever multisport event.
 
 ![Parcour](/images/2013-xduanorg-map.png)

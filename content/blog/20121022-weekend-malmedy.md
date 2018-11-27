@@ -1,7 +1,8 @@
-Title: Weekend in Malmedy
-Date: 22-10-2012
-Tags: mtb
-
++++
+title = "Weekend in Malmedy"
+date = "22-10-2012"
+tags = ["mtb"]
++++
 Last weekend A few of us from WV Het Stadion had a weekend mountain biking in Malmedy, Belgium. Its a beautiful place to ride and home to my(any many others) favorite ardennen marathon, the [rdhf](rdhf.be).
 
 Saturday, over breakfast, we got the trails map out and looked for what looked interesting. Throughout the Ardennen there is a grading system for trails going from 1 to 3 for both physical and technical. We found a trail rates 3 physical and 2 technical which was only 20% on asphalt 12km from Malmedy. We decided not to take the road, which was shortest but to use the network of trails in the area to come by the trail via other trails, starting by Malmedy. We figured it will be about 2 hours going there, then 2 hours for the trail and then 2 hours back. In Mountain biking however, things don't always go according to plan.

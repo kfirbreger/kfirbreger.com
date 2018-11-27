@@ -1,7 +1,8 @@
-Title:Wintersport in Passen
-Date: 2008-03-13 12:44:19
-Tags: sport, travel
-
++++
+title = "Wintersport in Passen"
+date = "2008-03-13 12:44:19"
+tags = ["sport", "travel"]
++++
 Om het communicatie was flotter te maken en te zorgen dat we met als groep
 kunnen communiceren maak ik hier ff een blog post over de wintersport plannen
 voor komenden passen weekend. Gebruik de comments om wat informatie to te

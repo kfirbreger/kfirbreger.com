@@ -1,7 +1,8 @@
-Title: Python MySQL and Unicode
-Date: 2012-10-15
-Tags: python, mysql, unicode
-
++++
+title = "Python MySQL and Unicode"
+date = "2012-10-15"
+tags = ["python", "mysql", "unicode"]
++++
 One of the biggest changes between python 2 and python 3 is unicode support. While python 2 default string is ascii, python 3 is all unicode[citation needed]. For different reasons I have not yet made the move to python 3 which means that every now and again I get into some unicode issues.
 
 Recently I needed to create some special exports from a utf-8 database[^u-u]. At first I completely ignored the fact it was unicode and expected everything to go just fine. Which of course it didn't.

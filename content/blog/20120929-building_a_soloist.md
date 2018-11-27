@@ -1,7 +1,8 @@
-Title: Building a Soloist
-Date: 2012-09-29
-Tags: cervelo, road bike, build, soloist
-
++++
+title = "Building a Soloist"
+date = "2012-09-29"
+tags = ["cervelo", "road bike", "build", "soloist"]
++++
 It was time to start looking for the rest of the parts. My budget was very tight and so I turned to [marktplaats](marktplaats.nl) which is the dutch ebay.
 
 I knew I wanted Campagnolo. My current road bike has a 15 year old Campagnolo Athena. Even it has been used a lot in those 15 years , summer and winter, it still runs like a dream. That kind of quality is what I want. Problem is Campagnolo and low budget do not mix all that well.

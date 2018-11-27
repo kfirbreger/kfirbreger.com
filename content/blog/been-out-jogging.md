@@ -1,7 +1,8 @@
-Title:Been out jogging
-Date: 2011-10-10 22:41:45
-Tags: run, sport
-
++++
+title = ["Been out jogging"]
+date = "2011-10-10 22:41:45"
+tags = ["run", "sport"]
++++
 It has been over a year since the last time I went for a run. It was never
 really my favorite sport, and once I started cycling, there really was no
 point to it. Since I am on a bike break, I figured I would go for a jog. I

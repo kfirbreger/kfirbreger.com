@@ -1,7 +1,8 @@
-Title:A few more pictures
-Date: 2009-05-24 21:49:14
-Tags: 365, Me, Me
-
++++
+title = "A few more pictures"
+date = "2009-05-24 21:49:14"
+tags = ["Me"]
++++
 This posts cover a few days worth of picture.
 
 The 20/5 I took my camera with me to work to make some pictures of the vila and its surrounding. This gate is the starting point of the path I jog on regularly. The sun was just coming up, it was all really wonderful to watch. ![The start of a path in the woods next to the DOP villa](/images/img_7650.jpg)

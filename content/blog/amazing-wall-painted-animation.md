@@ -1,7 +1,8 @@
-Title:Amazing wall painted animation
-Date: 2008-05-13 18:40:58
-Tags: fun
-
++++
+title = "Amazing wall painted animation"
+date = "2008-05-13 18:40:58"
+tags = ["fun"]
++++
 The title says it all
 
 [MUTO a wall-painted animation by

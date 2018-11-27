@@ -1,7 +1,8 @@
-Title:Great race, shame about Rossi
-Date: 2007-07-15 16:15:53
-Tags: sport
-
++++
+title = "Great race, shame about Rossi"
+date = "2007-07-15 16:15:53"
+tags = ["sport"]
++++
 The motogp in germany today was just brilliant. Great action on all three
 races. On the 125 The battle was for second and third. 250 was a brilliant
 race all the way with a great finish. It was good to so Lorenzo not win a

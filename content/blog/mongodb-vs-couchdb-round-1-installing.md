@@ -1,7 +1,8 @@
-Title:MongoDB vs CouchDB round 1 - Installing
-Date: 2010-12-18 11:45:08
-Tags: couchdb, mongodb, setup, web
-
++++
+title = "MongoDB vs CouchDB round 1 - Installing"
+date = "2010-12-18 11:45:08"
+tags = ["couchdb", "mongodb", "setup", "web"]
++++
 Recently I have started on a new project which will utilize a lot of the new
 web technology. The server will be nginx, combined with nodejs. For the
 database side there are two options to consider: MongoDB and CouchDB. Since I

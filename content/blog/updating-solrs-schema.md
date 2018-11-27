@@ -1,7 +1,8 @@
-Title:Updating SOLR's schema
-Date: 2012-01-24 11:47:15
-Tags: solr
-
++++
+title = "Updating SOLR's schema"
+date = "2012-01-24 11:47:15"
+tags = ["solr"]
++++
 When changing SOLR's schema, it is not enough to just change the file itself.
 Solr does not dynamically load the file. As long as no action is taken, the
 old schema will still be in effect. After updating the schema.xml you can

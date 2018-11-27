@@ -1,7 +1,8 @@
-Title:Kellerwald Marathon
-Date: 2011-04-20 14:15:26
-Tags: kellerwald, marathon, mtb, race, rwp
-
++++
+title = "Kellerwald Marathon"
+date = "2011-04-20 14:15:26"
+tags = ["kellerwald", "marathon", "mtb", "race", "rwp"]
++++
 Kellerwald. Opening race of the RWP Marathon cup. Marathons are what I have
 been training for and the main focus for me this season. I was really looking
 forward to this one. Just 4 days before the start Sophia decided she will

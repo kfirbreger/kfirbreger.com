@@ -1,7 +1,8 @@
-Title: python MySQLdb over ssh
-Date: 2012-11-06
-Tags: python, mysql
-
++++
+title = "python MySQLdb over ssh"
+date = "2012-11-06"
+tags = ["python", "mysql"]
++++
 **Note**: These instructions have been tested on OS X 10.8. If your using a different OS, this might not work for you.
 
 MySQLdb is good way to make a connection to a MySQL database from your python script. However what to do when you need to first ssh to some server first? The solution seems to be to open an [SSH Tunnel](http://en.wikipedia.org/wiki/Tunneling_protocol).

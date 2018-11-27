@@ -1,7 +1,8 @@
-Title:Bachelor project finished
-Date: 2007-09-01 08:55:37
-Tags: Me
-
++++
+title = "Bachelor project finished"
+date = "2007-09-01 08:55:37"
+tags = ["Me"]
++++
 Finally, and after about 1.5 years of delays, bad luck, and lack of
 motivation, my bachelor project is complete, done with , finished. Two days
 ago I gave a presentation and got the grade. 7.5 If you must know. Most
