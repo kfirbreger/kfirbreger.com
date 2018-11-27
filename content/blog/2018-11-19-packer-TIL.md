@@ -1,6 +1,6 @@
 +++
 title = "TIL: Packer stuff"
-date = "2018-11-19 18:00"
+date = "2018-11-19 18:00:00"
 tags = ["hashicorp", "packer", "devops", "deploy"]
 +++
 Today I spent a large part of my time fighting with Packer.The task at hand was relative simple. There are two configurations file I needed copied to a specific directory inside the AMI created.

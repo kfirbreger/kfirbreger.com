@@ -1,6 +1,6 @@
 +++
 title = "Weekend in Malmedy"
-date = "22-10-2012"
+date = "2012-10-22"
 tags = ["mtb"]
 +++
 Last weekend A few of us from WV Het Stadion had a weekend mountain biking in Malmedy, Belgium. Its a beautiful place to ride and home to my(any many others) favorite ardennen marathon, the [rdhf](rdhf.be).
