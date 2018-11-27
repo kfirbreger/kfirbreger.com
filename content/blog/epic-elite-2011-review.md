@@ -183,6 +183,7 @@ fairness, I give the list he mailed me.
   * Very stable on the descents
   * Steers very sharp in corners, even on uneven terrain.
   * Bottom bracket is somewhat low, though it might be due to tilting the bike to much
+
 As you an see, Jurriaan does not completely agree with me, but hey, its MY
 test.
 
