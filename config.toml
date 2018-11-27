@@ -14,8 +14,28 @@ theme = "coder"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 1
+    weight = 10
     url = "https://github.com/kfirbreger/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 20
+    url = "https://instagram.com/kfirbreger"
+[[params.social]]
+    name = "Mastodon"
+    icon = "fab fa-mastodon fa-2x"
+    weight = 30
+    url = "https://mastodon.social/@kfirbreger"
+[[params.social]]
+    name = "Strava"
+    icon = "fab fa-strava fa-2x"
+    weight = 40
+    url = "https://www.strava.com/athletes/59073"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 100
+    url = "https://www.linkedin.com/in/kfir-breger"
 
 # Menu links
 [[menu.main]]
