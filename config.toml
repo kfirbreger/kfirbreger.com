@@ -22,16 +22,6 @@ theme = "coder"
     weight = 20
     url = "https://instagram.com/kfirbreger"
 [[params.social]]
-    name = "Mastodon"
-    icon = "fab fa-mastodon fa-2x"
-    weight = 30
-    url = "https://mastodon.social/@kfirbreger"
-[[params.social]]
-    name = "Strava"
-    icon = "fab fa-strava fa-2x"
-    weight = 40
-    url = "https://www.strava.com/athletes/59073"
-[[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
     weight = 100
