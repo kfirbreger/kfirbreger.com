@@ -1,0 +1,32 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Language" content="{{ .Site.Language.Lang }}">
+
+<!-- author & description & keywords  -->
+{{ if or .Params.author .Site.Author.name }}
+{{ $author := .Params.author | default .Site.Author.name }}
+<meta name="author" content="{{ $author | safeHTML }}" />
+{{ end }}
+
+{{ if .IsPage }}
+  <meta name="description" content="{{ .Summary | plainify }}" />
+{{ else if or .Description .Site.Params.description }}
+{{ $description := .Description | default .Site.Params.description }}
+  <meta name="description" content="{{ $description | safeHTML }}" />
+{{ end }}
+
+{{ if or .Keywords .Site.Params.keywords }}
+{{ $keywords := .Keywords | default .Site.Params.keywords }}
+{{ $length := len $keywords | add -1 -}}
+  <meta name="keywords" content="{{ range $index, $element := $keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
+{{ end }}
+
+<!-- Permalink & RSSlink -->
+<link rel="canonical" href="{{ .Permalink }}" />
+{{ with .OutputFormats.Get "RSS" }}<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />{{ end }}
+
+{{ if .OutputFormats.Get "jsonfeed" }}
+<link
+  href="{{ with .OutputFormats.Get "jsonfeed" }}{{ .Permalink }}{{ end }}"
+  rel="alternate" type="application/json" title="{{ .Site.Title }}" />
+{{ end }}
