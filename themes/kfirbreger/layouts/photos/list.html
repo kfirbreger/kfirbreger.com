@@ -2,9 +2,11 @@
 <main id="content">
     <h1>{{ .Title }}</h1>
     {{ range (.Paginator 20).Pages }}
-        {{ .Title }}
-        {{ with $.Resources.ByType "image" }} 
-        <div class="photo-list"><a href="{{ .Permalink }}"><img src="{{ .Permalink }}" /></a></div>
+        {{ $postLink := .Permalink }}
+        {{ with .Resources.ByType "image" }}
+            {{ range . }}
+            <div class="photo-stream"><a href="{{ $postLink }}"><img src="{{ .RelPermalink }}" class="photo-list"/></a></div>
+            {{ end }}
         {{ end }}
     {{ end }}
 </main>
