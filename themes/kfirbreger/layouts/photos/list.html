@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main id="content">
+    <h1>{{ .Title }}</h1>
+    {{ range (.Paginator 20).Pages }}
+        {{ .Title }}
+        {{ with $.Resources.ByType "image" }} 
+        <div class="photo-list"><a href="{{ .Permalink }}"><img src="{{ .Permalink }}" /></a></div>
+        {{ end }}
+    {{ end }}
+</main>
+{{ end }}
