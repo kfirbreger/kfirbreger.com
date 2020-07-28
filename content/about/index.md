@@ -1,8 +1,7 @@
 +++
-title = "About"
+title = "Hi"
 +++
 
-## Kfir Breger
 I'm a developer based in Utrecht, the Netherlands. I do both front end and back end web develpment, as well as write applications. I have a passion for technology, which is rivaled only by my passion for racing mountain bikes.
 My first programming experience was writing GW-BASIC on my IBM-PC. I was hooked. From GW-BASIC I moved to C, and later on C++. At the university I was introduced to Java and more importantly, python. Python for me was love at first sight. Clean, powerful, robust. For years now, Python has been my go to language.  
 
