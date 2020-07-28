@@ -1,4 +1,57 @@
-html {
+/*
+ * Colors:
+ * main: #111
+ * link: #444
+ */
+
+body {
   font-family: sans-serif;
-  font-size: 24px;
+  font-size: 18pt;
+  color: #111
 }
+
+.header-title {
+  display: inline-block;
+  width: 20%;
+}
+
+.header-title a {
+  color: #111;
+  text-decoration: none;
+}
+
+.navbar {
+  display: inline-block;
+  width: 70%;
+  text-align: center;
+}
+
+.navbar-item {
+  margin-left: 1rem;
+  color: #444;
+}
+
+#content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 960pt;
+}
+
+.default-list {
+  list-style-type: none;
+}
+
+.default-list-item {
+  margin-bottom: 2rem;
+}
+
+.default-list-item .link-date {
+  float: right;
+}
+
+.photo-single img {
+  display: block;
+  margin: 1rem auto;
+}
+
