@@ -50,8 +50,21 @@ body {
   float: right;
 }
 
-.photo-single img {
+.photo-single {
   display: block;
   margin: 1rem auto;
+  width: 100%;
 }
+
+
+.photo-stream {
+  margin: 1rem auto;
+}
+
+.photo-list {
+  display: inline-block;
+  width: 30%;
+  margin: 1rem;
+}
+
 
