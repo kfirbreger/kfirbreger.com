@@ -20,7 +20,7 @@ In photography news, Canon released its much anticipated EOS R5. [dpreview](http
 ## Videos
 
 Going on adventure with a bus and complete strangers in the southwest of the USA.
-{{< youtube quspwG_FAn8 >}}
+{{< yt quspwG_FAn8 >}}
 
 By the afore mentioned Beau Miles, this lovely film is about making the most of your day while running a marathon. Yes you read that right.
 {{< youtube EvT5XS7j-Dc >}}
