@@ -11,6 +11,11 @@ A list of games I intend to play
 - Fable 4<span class="console">XSX</span>
 - Shovel Knight<span class="console">Switch</span>
 - Final Fantasy 12 The Zodiac Age<span class="console">Switch</span>
+- Bloodborne<span class="console">PS4</span>
+- Concrete Genie<span class="console">PS4</span>
+- Nier: Automata<span class="console">PS4</span>
+- Legend of Zelda: Majora's Mask<span class="console">3DS</span>
+- Legend of Zelda: Ocarina in Time<span class="console">3DS</span>
 
 
 ### Playing
