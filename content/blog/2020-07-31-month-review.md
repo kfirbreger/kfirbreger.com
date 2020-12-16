@@ -4,7 +4,7 @@ slug = "2020-july-month-review"
 date = 2020-07-30T14:44:13+02:00
 draft = false
 +++
-## Web
+## Read
 Looking to add mode adventure to my life I fount these two personal sites.
 - [Beau Miles](https://beaumiles.com): A most charismatic and fascinating person. A trail runner, adventurer, film maker, barn builder, to name a few of his endeavours. He has had some amazing adventures with a kayak, and has made award winning films about adventures, big and small.
 - [Like a big foot](http://likeabigfoot.com): A blog about inspiration and adventure with a lovely friendly tone. There is also a podcast.
@@ -17,7 +17,7 @@ While the type of adventures these two guys have had differ immensely, they both
 
 In photography news, Canon released its much anticipated EOS R5. [dpreview](https://www.dpreview.com/news/4816421953/canon-releases-eos-r5-with-45mp-sensor-8k-video-capture-and-next-gen-dual-pixel-af)
 
-## Videos
+## Watch
 
 Going on adventure with a bus and complete strangers in the southwest of the USA.
 {{< yt quspwG_FAn8 >}}
