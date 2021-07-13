@@ -1,4 +1,4 @@
-baseURL = "http://kfirbreger.com/"
+# baseURL = "http://kfirbreger.com/"
 languageCode = "en-us"
 title = "Kfir Breger"
 theme = "kfirbreger"
